@@ -1,12 +1,12 @@
 {
   "name": "themefisher-boilerplate-free",
   "version": "2.2.3",
-  "description": "Gulp environment for running HTML themes by Lexardi Studio",
+  "description": "Gulp environment for running HTML themes by themefisher",
   "keywords": [
     "gulp",
     "frontend"
   ],
-  "author": "Lexardi Studio",
+  "author": "Themefisher",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.27.5",
